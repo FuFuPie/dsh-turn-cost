@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "本轮花费",
+    "description": "在每条回复底部的 token 用量旁显示本轮 API 费用：用精确的输入/缓存命中/输出 token 乘 DeepSeek 官方单价（区分高峰与空闲时段）。"
+  }
+}

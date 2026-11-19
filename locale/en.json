@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Turn cost",
+    "description": "Shows this turn's API cost next to the token usage under each reply, priced from the exact input, cache-hit and output tokens at DeepSeek's published rates, including peak and off-peak hours."
+  }
+}
